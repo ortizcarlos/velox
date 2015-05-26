@@ -1134,7 +1134,7 @@ pre[class*="language-"] {
 }
 
 .navbar {
-  background: #222;
+  background: #001A66;
   height: 50px;
 }
 
@@ -1185,7 +1185,7 @@ pre[class*="language-"] {
   font-family: 'Lato';
   font-size: .9em;
   color: #ccc;
-  background: #222;
+  background: #001A66;
   display: -webkit-box;
   display: -moz-fox;
   display: -ms-flexbox;
